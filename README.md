@@ -36,10 +36,9 @@ The project follows the Medallion Architecture (Bronze → Silver → Gold) usin
 
 | Dataset | Source |
 |---------|---------|
-| Rent Regulation | data.gouv.fr |
-| Property Prices (DVF) | data.gouv.fr |
-| Lyon District Boundaries | Métropole de Lyon |
-| Public Transport (optional) | TCL Open Data |
+| Rent Regulation | [data.gouv.fr](https://www.data.gouv.fr/datasets/encadrement-des-loyers-de-la-metropole-de-lyon-2023-2024) |
+| Property Prices (DVF) | [data.gouv.fr](https://www.data.gouv.fr/datasets/dvf-open-data) |
+
 
 ---
 
