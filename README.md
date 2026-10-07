@@ -100,7 +100,10 @@ Investment score
 
 ## Dashboard
 
-(Add screenshots)
+<img width="1378" height="787" alt="image" src="https://github.com/user-attachments/assets/88aa05e5-2781-4d80-ba47-ce885c54e5a5" />
+<img width="1371" height="813" alt="image" src="https://github.com/user-attachments/assets/edcd85b5-7177-4a3e-bb7d-01c5150c5e33" />
+
+
 
 ---
 
